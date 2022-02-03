@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @clash14
+- 👀 I’m interested in learning web development using JavaScript, PHP, Python, CSS, etc.
+- 🌱 I’m currently learning pretty much everything.
+- 📫 How to reach me clash14@gmail.com
